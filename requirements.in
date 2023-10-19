@@ -1,0 +1,6 @@
+pip-tools
+black
+ruff
+django
+djangorestframework
+pygments
